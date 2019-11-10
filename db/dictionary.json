@@ -1,0 +1,124 @@
+{
+    "words":[
+        {
+            "word":{
+                "en": "Hello",
+                "vn": "Xin chào"
+            }
+        },
+        {
+            "word":{
+                "en": "Single",
+                "vn": "Độc thân"
+            }
+        },
+        {
+            "word":{
+                "en": "Medical",
+                "vn": "Y khoa"
+            }
+        },
+        {
+            "word":{
+                "en": "Church",
+                "vn": "Nhà thờ"
+            }
+        },
+        {
+            "word":{
+                "en": "Enviroment",
+                "vn": "Môi trường"
+            }
+        },
+        {
+            "word":{
+                "en": "Lawyer",
+                "vn": "Luật sư"
+            }
+        },
+        {
+            "word":{
+                "en": "Professor",
+                "vn": "Giáo sư"
+            }
+        },
+        {
+            "word":{
+                "en": "financial:",
+                "vn": "Tài chính"
+            }
+        },
+        {
+            "word":{
+                "en": "Collection:",
+                "vn": "Bộ sưu tập"
+            }
+        },
+        {
+            "word":{
+                "en": "Partner:",
+                "vn": "Cộng sự"
+            }
+        },
+        {
+            "word":{
+                "en": "Consumer:",
+                "vn": "Khách hàng"
+            }
+        },
+        {
+            "word":{
+                "en": "Capital",
+                "vn": "Thủ đô"
+            }
+        },
+        {
+            "word":{
+                "en": "University:",
+                "vn": "Trường đại học"
+            }
+        },
+        {
+            "word":{
+                "en": "Boat:",
+                "vn": "Thuyền"
+            }
+        },
+        {
+            "word":{
+                "en": "Truck:",
+                "vn": "Xe tải"
+            }
+        },
+        {
+            "word":{
+                "en": "Recident:",
+                "vn": "Cư dân"
+            }
+        },
+        {
+            "word":{
+                "en": "Farm:",
+                "vn": "Nông trại"
+            }
+        },
+        {
+            "word":{
+                "en": "Hourse:",
+                "vn": "Con ngựa"
+            }
+        },
+        {
+            "word":{
+                "en": "Chief:",
+                "vn": "Giám đốc"
+            }
+        },
+        {
+            "word":{
+                "en": "Fire",
+                "vn": "Ngọn lửa"
+            }
+        }
+    ]
+}
